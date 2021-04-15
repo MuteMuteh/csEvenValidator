@@ -10,7 +10,7 @@ This enhanced version fixes some issues with big integers, big integers were pro
 * Clean screen.
 * Exit function.
 # Pics 🎞
-![sample](https://github.com/devatcarl-1999/csEvenValidator/img/1.png)
+![sample](https://github.com/devatcarl-1999/csEvenValidator/blob/main/img/1.png)
 
 
 
